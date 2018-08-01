@@ -1,4 +1,3 @@
-# CategoryResearch
 
 # 分类的好处 
 把功能的实现分散到多个文件中 
